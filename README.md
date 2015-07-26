@@ -7,4 +7,4 @@ Now for the *README.md* file we again create a new empty file and save it with t
 
 Make sure everything is saved at this point. We initialize Git in the folder and do the first commit by selecting the menu **Source Control/Create Working Copy...**.
 
-[ref 1]:[https://github.com/github/gitignore]
+[ref 1]:(https://github.com/github/gitignore)
